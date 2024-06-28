@@ -1,0 +1,160 @@
+IPadresa	Hostname	Vendor	Tip	Grad	Lokacija	snmpString
+10.0.6.173	sokolac-ubr7200-01	Cisco	CMTS	Sokolac	TKC Mtel	D3rG1lf3r
+10.0.6.168	cajnice-ubr7246-01	Cisco	CMTS 	Čajniče	Elta Centrala	D3rG1lf3r
+10.0.6.174	ng-atc-ubr7246-01	Cisco	CMTS	Novi Grad 	ATC	D3rG1lf3r
+10.0.6.195	zv-tkc-10k-cmts-01	Cisco	CMTS	Zvornik	ATC	D3rG1lf3r
+10.0.6.176	dubica-pop-10k-cmts-01	Cisco	CMTS	Kozarska Dubica	TKC Mtel	D3rG1lf3r
+10.0.6.167	lkt-elta-ubr10k-01	Cisco	CMTS	Laktaši	Kobatovci	D3rG1lf3r
+10.0.6.166	bl-e-tkc-10k-cmts-01	Cisco	CMTS	Banja Luka	TKC Mtel	D3rG1lf3r
+10.0.3.233	bl-ss-10k-cmts-01 	Cisco	CMTS	Banja Luka	Server sala	D3rG1lf3r
+10.0.3.213	bl-tkc-10k-cmts-01	Cisco	CMTS	Banja Luka	TKC Mtel	D3rG1lf3r
+10.0.3.201	bn-ss-10k-cmts-01	Cisco	CMTS	Bijeljina	Obrijež	D3rG1lf3r
+10.0.6.202	bn-tkc-10k-cmts-01	Cisco	CMTS	Bijeljina	TKC Mtel	D3rG1lf3r
+10.0.6.203	bn-tkc-10k-cmts-02	Cisco	CMTS	Bijeljina	TKC Mtel	D3rG1lf3r
+10.0.6.205	br-tkc-10k-cmts-01	Cisco	CMTS	Brčko	TKC Mtel	D3rG1lf3r
+10.0.6.206	brod-tkc-10k-cmts-01	Cisco	CMTS	Brod	KC Brod	D3rG1lf3r
+10.0.3.221	cz-slt-ubr7246-01	Cisco	CMTS	Cazin	Slatina	D3rG1lf3r
+10.0.3.238	foca-pop-ubr7246-01	Cisco	CMTS	Foča	POP	D3rG1lf3r
+10.0.3.210	kv-pop-10k-cmts-01	Cisco	CMTS	Kotor Varoš	POP	D3rG1lf3r
+10.0.3.220	mod-pop-ubr7246-01	Cisco	CMTS	Modriča	POP	D3rG1lf3r
+10.0.3.209	pale-pop-10k-cmts-01	Cisco	CMTS	Pale	POP	D3rG1lf3r
+10.0.3.211	pd-pop-10k-cmts-01	Cisco	CMTS	Prijedor	ATC	D3rG1lf3r
+10.0.3.243	rog-pop-ubr7246-01	Cisco	CMTS	Rogatica	Rogatica	D3rG1lf3r
+10.0.3.212	srb-pop-10k-cmts-01	Cisco	CMTS	Srbac	Kontejner	D3rG1lf3r
+10.0.6.175	tslc-10k-cmts-01	Cisco	CMTS	Teslić	Elta Centrala	D3rG1lf3r
+10.0.6.204	uglj-tkc-10k-cmts-01	Cisco	CMTS	Ugljevik	TKC Mtel	D3rG1lf3r
+10.0.3.237	vsgd-pop-ubr7246-01	Cisco	CMTS	Višegrad	POP	D3rG1lf3r
+10.0.3.208	vla-pop-10k-cmts-01	Cisco	CMTS	Vlasenica	POP	D3rG1lf3r
+10.0.3.207	grd-pop-10k-cmts-02	Cisco	CMTS	Gradiška	ATC	D3rG1lf3r
+10.0.6.170	sekovici-ubr7246-01	Cisco	CMTS	Šekovići	Zgrada Pošte	D3rG1lf3r
+10.0.6.217	mg-e-7k-cmts-01	Cisco	CMTS	Mrkonjić Grad	POP	D3rG1lf3r
+10.0.6.165	bl-e-laz-10k-cmts-01	Cisco	CMTS	Banja Luka	Lazarevo	D3rG1lf3r
+10.0.6.161	do-10k-cmts-01	Cisco	CMTS	Doboj	Elta centrala	D3rG1lf3r
+10.0.6.245	uBR_Derventa.elta-kabel.com	Cisco	CMTS	Derventa	Elta centrala	D3rG1lf3r
+10.0.6.236	Bratunac_UBR.elta-kabel.com	Cisco	CMTS	Bratunac	Elta centrala	D3rG1lf3r
+10.0.3.164	is-fo-cmts-10k-01	Cisco	CMTS	Istočno Sarajevo	Front Office	D3rG1lf3r
+10.0.6.169	trb-tkc-10k-cmts-01	Cisco	CMTS	Trebinje	TKC Mtel	D3rG1lf3r
+192.168.0.37	Centar01	Iskratel	OLT	Bijeljina	Kontejner	D3rG1lf3r
+192.168.0.23	Centar03	Iskratel	OLT	Bijeljina	Kontejner	D3rG1lf3r
+192.168.0.39	Centar02	Iskratel	OLT	Bijeljina	Kontejner	D3rG1lf3r
+192.168.0.77	obarska-00	Iskratel	OLT	Bijeljina	Obarska	D3rG1lf3r
+192.168.0.24	Centar04	Iskratel	OLT	Bijeljina	TKC Mtel	D3rG1lf3r
+192.168.0.230	Grcica01	Iskratel	OLT	Brčko	Grčica	D3rG1lf3r
+192.168.0.231	Grcica02	Iskratel	OLT	Brčko	Grčica	D3rG1lf3r
+192.168.0.91	Ilicka01	Iskratel	OLT	Brčko	Ilićka	D3rG1lf3r
+192.168.0.179	srpska-varos-01	Iskratel	OLT	Brčko	TKC Mtel	D3rG1lf3r
+192.168.0.189	srpska-varos-02	Iskratel	OLT	Brčko	TKC Mtel	D3rG1lf3r
+192.168.0.85	Pelagicevo01	Iskratel	OLT	Pelagićevo	POP	D3rG1lf3r
+192.168.0.86	Pelagicevo02	Iskratel	OLT	Pelagićevo	POP	D3rG1lf3r
+192.168.0.241	Samac01-01	Iskratel	OLT	Šamac	POP1	D3rG1lf3r
+192.168.0.242	Samac01-02	Iskratel	OLT	Šamac	POP1	D3rG1lf3r
+192.168.0.243	Samac02-01	Iskratel	OLT	Šamac	POP2	D3rG1lf3r
+192.168.0.244	Samac03-01	Iskratel	OLT	Šamac	POP3	D3rG1lf3r
+192.168.0.56	Zabari01	Iskratel	OLT	Žabari	POP	D3rG1lf3r
+192.168.0.59	Zabari02	Iskratel	OLT	Žabari	POP	D3rG1lf3r
+10.0.3.222	bl-ss-7606-bgp-01 	Cisco 	Router	Banja Luka	Server sala	D3rG1lf3r
+10.0.3.251	bl-ss-7609-PE-01 	Cisco 	Router	Banja Luka	Server sala	D3rG1lf3r
+10.0.3.254	bl-ss-7606-p-01 	Cisco 	Router	Banja Luka	Server sala	D3rG1lf3r
+10.0.3.227	gom-pop-me3600-01	Cisco 	Router	Cazin	Velika Gomila	D3rG1lf3r
+10.0.3.218	foca-pop-asr920-01 	Cisco	Router	Foča	POP	D3rG1lf3r
+10.0.3.249	grd-pop-asr902-01 	Cisco 	Router	Gradiška	POP	D3rG1lf3r
+10.0.3.248	lis-pop-asr920-01	Cisco	Router	Lisina	POP	D3rG1lf3r
+10.0.3.219	mod-pop-asr920-01 	Cisco	Router	Modriča	POP	D3rG1lf3r
+10.0.3.235	pl-pop-me3600-PE	Cisco 	Router	Pale	POP	D3rG1lf3r
+10.0.3.214	sa-dbr-7606-01 	Cisco	Router	Sarajevo	Dobrinja	D3rG1lf3r
+10.0.3.216	vla-pop-asr920-01 	Cisco	Router	Vlasenica	POP	D3rG1lf3r
+10.11.11.252	bl-tkc-asr-9901	Cisco	Router	Banja Luka	TKC Mtel	D3rG1lf3r
+10.33.11.129	rog-pop-asr9k-PE	Cisco	Router	Rogatica	POP	D3rG1lf3r
+31.223.223.17	bus-NCS540-01	Cisco	Router	Busovača	Kontejner	D3rG1lf3r
+10.0.3.247	bus-NCS540-01	Cisco	Router	Busovača	Kontejner	D3rG1lf3r
+10.0.3.234	7609_BL	Cisco	Router	Banja Luka	Lazarevo	D3rG1lf3r
+10.0.3.196	ASR2	Cisco	Router	Bijeljina	TKC Mtel	D3rG1lf3r
+10.0.3.226	ASR1006	Cisco	Router	Bijeljina	TKC Mtel	D3rG1lf3r
+10.0.6.250	RouterASR1	Cisco	Router	Bijeljina	TKC Mtel	D3rG1lf3r
+10.0.3.228	7606_Do	Cisco	Router	Doboj	Elta Centrala	D3rG1lf3r
+10.0.3.241	BL-TKC-NCS5501-01	Cisco	Router	Banja Luka	TKC Mtel	D3rG1lf3r
+10.0.3.231	 knz-NCS540-01 	Cisco 	Router	Kneževo	MTEL POP	D3rG1lf3r
+10.0.3.229	sa-dbr-7201-rr-01 	Cisco	Router	Sarajevo	Dobrinja	D3rG1lf3r
+10.112.11.141	sw-gom-lip-01-ME 	Cisco	Switch	Bosanska Krupa	Lipik	D3rG1lf3r
+10.33.11.34	sw-foca-pop-01-ME 	Cisco	Switch	Foča	POP	D3rG1lf3r
+10.112.11.3	sw-lis-01-ME	Cisco	Switch	Lisina	POP	D3rG1lf3r
+10.14.11.6	sw-mod-C2950-01.blicnet.ba	Cisco	Switch	Modriča	Front Office	D3rG1lf3r
+10.33.11.133	sw-vsgd-pop-2960G-01.aneks.com	Cisco	Switch	Višegrad	POP	D3rG1lf3r
+10.16.11.3	sw-milici-01-ME 	Cisco	Switch	Vlasenica	Milići	D3rG1lf3r
+10.16.11.2	sw-vla-01-ME	Cisco	Switch	Vlasenica	POP	D3rG1lf3r
+10.11.11.7	sw-r10-02	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+192.168.0.62	Akvizicija SW	Cisco	Switch	Bijeljina	TKC Mtel	D3rG1lf3r
+10.11.11.24	sw-r20-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.6	sw-r22-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.0.3.223	Brcko_ME	Cisco	Switch	Brčko	Eš Naselje	D3rG1lf3r
+10.16.11.40	sw-brat-3560-01	Cisco	Switch	Bratunac	Elta centrala	D3rG1lf3r
+10.16.11.4	sw-brat-3560-01	Cisco	Switch	Bratunac	Elta centrala	D3rG1lf3r
+10.11.11.10	sw-rCMTS-01.aneks.com	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.14	sw-r5-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.15	sw-r21-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.18	sw-r13-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.19	sw-r27-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.22	sw-r2-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.254	sw-6500 	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.27	sw-r16-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.28	sw-r16-02	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.30	sw-r15-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.31	 sw-hp-01 	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.32	sw-hp-02 	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.33	sw-r17-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.34	sw-r14-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.5	sw-r1-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.8	sw-r10-01	Cisco	Switch	Banja Luka	Server sala	D3rG1lf3r
+10.11.11.162	sw-sigurnasoba-2960	Cisco	Switch	Banja Luka	Sigurna Soba	D3rG1lf3r
+10.112.11.153	sw-bhc-bihac-01-ME 	Cisco	Switch	Bihać	Nova četvrt	D3rG1lf3r
+10.11.11.39	sw-lpv-01-ME 	Cisco	Switch	Čelinac	Lipovac	D3rG1lf3r
+10.111.11.2	sw-grd-pop-3750-01 	Cisco	Switch	Gradiška	POP	D3rG1lf3r
+10.111.11.8	sw-grd-pop-01-ME	Cisco	Switch	Gradiška	POP	D3rG1lf3r
+10.11.11.76	sw-knz-01-ME 	Cisco	Switch	Kneževo	MTEL POP	D3rG1lf3r
+10.11.11.55	sw-ktv-01-ME 	Cisco	Switch	Kotor Varoš	Centar	D3rG1lf3r
+10.11.11.59	sw-lkt-cnt 	Cisco	Switch	Laktaši	Centar	D3rG1lf3r
+10.12.11.18	sw-pd-tkc-3400-ME	Cisco	Switch	Prijedor	TKC Mtel	D3rG1lf3r
+10.111.11.7	sw-srb-2960G-01	Cisco	Switch	Srbac	Kontejner	D3rG1lf3r
+10.11.11.13	sw-anx-01-ME 	Cisco	Switch	Banja Luka	Aneks	D3rG1lf3r
+10.11.11.251	sw-bl-tkc-9500 	Cisco	Switch	Banja Luka	TKC Mtel	D3rG1lf3r
+10.12.11.41	sw-pd-dbc-3560-02	Cisco	Switch	Kozarska Dubica	Elta Centrala	D3rG1lf3r
+10.12.11.40	sw-dbc-3560E-01.elta-kabel.com 	Cisco	Switch	Kozarska Dubica	TKC Mtel	D3rG1lf3r
+10.12.11.21	sw-pd-ng-3560e	Cisco	Switch	Novi Grad 	Elta Centrala	D3rG1lf3r
+10.12.11.22	sw-pd-tkc-3560E-01	Cisco	Switch	Prijedor	ATC	D3rG1lf3r
+10.11.50.2	sw-mg-3560G-01	Cisco	Switch	Mrkonjić Grad	POP	D3rG1lf3r
+10.11.11.21	sw-r19-01	Cisco	Switch	Banja Luka	Majke Jugovića	D3rG1lf3r
+10.0.3.225	Teslic_ME.elta-kabel.com	Cisco	Switch	Teslić	Elta Centrala	D3rG1lf3r
+10.0.3.215	Zvornik_ME.elta-kabel.com	Cisco	Switch	Zvornik	B Blokovi	D3rG1lf3r
+192.168.0.248	FTTH_Aggregation	Cisco	Switch	Bijeljina	Obrijež	D3rG1lf3r
+192.168.0.251	Google3850	Cisco	Switch	Bijeljina	Obrijež	D3rG1lf3r
+192.168.0.245	cisco_mtel_003	Cisco	Switch	Bijeljina	TKC Mtel	D3rG1lf3r
+192.168.0.224	mtel-004	Cisco	Switch	Bijeljina	TKC Mtel	D3rG1lf3r
+10.111.11.10	sw-grd-atc-2960G 	Cisco	Switch	Gradiška	ATC	D3rG1lf3r
+10.12.11.23	sw-ng-tkc-ME-01	Cisco	Switch	Novi Grad 	ATC	D3rG1lf3r
+10.11.50.130	sw-sip-tkc-3560e-01	Cisco	Switch	Šipovo 	Zgrada Pošte	D3rG1lf3r
+10.33.11.226	3560_Zv	Cisco	Switch	Zvornik	B Blokovi	D3rG1lf3r
+10.0.3.172	MG-POP-ME3600	Cisco	Switch	Mrkonjić Grad	POP	D3rG1lf3r
+10.33.11.134	sw-sok-3560-01	Cisco	Switch	Sokolac	TKC Mtel	D3rG1lf3r
+192.168.0.115	privremeno	Cisco	Switch	Bijeljina	Obrijež	D3rG1lf3r
+192.168.0.222	NEXUS2	Cisco	Switch	Bijeljina	Obrijež	D3rG1lf3r
+192.168.0.48	BiznisKorisnici02	Cisco	Switch	Bijeljina	Obrijež	D3rG1lf3r
+192.168.0.2	nexus_core	Cisco	Switch	Bijeljina	TKC Mtel	D3rG1lf3r
+192.168.0.45	mtel-001	Cisco	Switch	Bijeljina	TKC Mtel	D3rG1lf3r
+192.168.0.49	mtel-002	Cisco	Switch	Bijeljina	TKC Mtel	D3rG1lf3r
+192.168.0.74	DIGITALHEADEND	Cisco	Switch	Bijeljina	TKC Mtel	D3rG1lf3r
+192.168.0.229	brcko-001	Cisco	Switch	Brčko	TKC Mtel	D3rG1lf3r
+192.168.0.238	brod-core	Cisco	Switch	Brod	TKC Mtel	D3rG1lf3r
+10.0.3.200	EltaIS_ME	Cisco	Switch	Istočno Sarajevo	Elta Centrala	D3rG1lf3r
+10.12.11.43	sw-pd-kst-3560-02	Cisco	Switch	Kostajnica	Elta Centrala	D3rG1lf3r
+192.168.0.210	modrica-001	Cisco	Switch	Modriča	TKC Mtel	D3rG1lf3r
+192.168.0.214	samac-001	Cisco	Switch	Šamac	POP1	D3rG1lf3r
+192.168.0.228	Nexus 3064 Chassis	Cisco	Switch	Ugljevik	TKC Mtel	D3rG1lf3r
+192.168.0.254	Sestica	Cisco	Switch	Bijeljina	Obrijež	D3rG1lf3r
+192.168.0.9	Voice3750	Cisco	Switch	Bijeljina	Obrijež	D3rG1lf3r
+10.11.12.112	PWR-ATV	Nepoznat	UPS	Banja Luka	ATV	
+10.11.12.125	PWR-MT-CSM	Nepoznat	UPS	Banja Luka	Česma	
+10.11.12.131	PWR-MDN	Nepoznat	UPS	Banja Luka	Mejdan	
+10.11.12.141	PWR-NBD	Nepoznat	UPS	Banja Luka	Neboder	
+10.112.16.112	CZ-PWR-SLT	Nepoznat	UPS	Cazin	Slatina	
+10.112.16.111	CZ-PPWR-VGM	Nepoznat	UPS	Cazin	Velika Gomila	
+10.12.12.106	PD-PWR-HTL	Nepoznat	UPS	Prijedor	Hotel	

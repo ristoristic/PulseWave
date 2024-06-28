@@ -1,0 +1,350 @@
+IPadresa	Hostname	Tip	Grad	Lokacija
+10.33.5.129				
+10.0.6.217	mg-e-7k-cmts-01	CMTS	Mrkonjić Grad	POP
+10.0.6.165	bl-e-laz-10k-cmts-01	CMTS	Banja Luka	Lazarevo
+10.0.6.169	trb-tkc-10k-cmts-01	CMTS	Trebinje	TKC Mtel
+10.0.6.245	uBR_Derventa.elta-kabel.com	CMTS	Derventa	Elta centrala
+10.0.6.236	Bratunac_UBR.elta-kabel.com	CMTS	Bratunac	Elta centrala
+10.0.3.164	is-fo-cmts-10k-01	CMTS	Istočno Sarajevo	Front Office
+10.0.6.161	do-10k-cmts-01	CMTS	Doboj	Elta centrala
+10.0.3.233	bl-ss-10k-cmts-01 	CMTS	Banja Luka	Server sala
+10.0.3.213	bl-tkc-10k-cmts-01	CMTS	Banja Luka	TKC Mtel
+10.0.3.201	bn-ss-10k-cmts-01	CMTS	Bijeljina	Obrijež
+10.0.6.202	bn-tkc-10k-cmts-01	CMTS	Bijeljina	TKC Mtel
+10.0.6.203	bn-tkc-10k-cmts-02	CMTS	Bijeljina	TKC Mtel
+10.0.6.205	br-tkc-10k-cmts-01	CMTS	Brčko	TKC Mtel
+10.0.6.206	brod-tkc-10k-cmts-01	CMTS	Brod	KC Brod
+10.0.3.221	cz-slt-ubr7246-01	CMTS	Cazin	Slatina
+10.0.3.238	foca-pop-ubr7246-01	CMTS	Foča	POP
+10.0.3.210	kv-pop-10k-cmts-01	CMTS	Kotor Varoš	POP
+10.0.3.220	mod-pop-ubr7246-01	CMTS	Modriča	POP
+10.0.3.209	pale-pop-10k-cmts-01	CMTS	Pale	POP
+10.0.3.211	pd-pop-10k-cmts-01	CMTS	Prijedor	ATC
+10.0.3.243	rog-pop-ubr7246-01	CMTS	Rogatica	Rogatica
+10.0.3.212	srb-pop-10k-cmts-01	CMTS	Srbac	Kontejner
+10.0.6.175	tslc-10k-cmts-01	CMTS	Teslić	Elta Centrala
+10.0.6.204	uglj-tkc-10k-cmts-01	CMTS	Ugljevik	TKC Mtel
+10.0.3.237	vsgd-pop-ubr7246-01	CMTS	Višegrad	POP
+10.0.3.208	vla-pop-10k-cmts-01	CMTS	Vlasenica	POP
+10.0.3.207	grd-pop-10k-cmts-02	CMTS	Gradiška	ATC
+10.0.6.174	ng-atc-ubr7246-01	CMTS	Novi Grad 	ATC
+10.0.6.195	zv-tkc-10k-cmts-01	CMTS	Zvornik	ATC
+10.0.6.167	lkt-elta-ubr10k-01	CMTS	Laktaši	Kobatovci
+10.0.6.166	bl-e-tkc-10k-cmts-01	CMTS	Banja Luka	TKC Mtel
+10.0.6.173	sokolac-ubr7200-01	CMTS	Sokolac	TKC Mtel
+10.0.6.168	cajnice-ubr7246-01	CMTS 	Čajniče	Elta Centrala
+10.0.6.176	dubica-pop-10k-cmts-01	CMTS	Kozarska Dubica	TKC Mtel
+10.0.6.170	sekovici-ubr7246-01	CMTS	Šekovići	Zgrada Pošte
+192.168.0.227	rc1000	DTI Server	Bijeljina	TKC Mtel
+192.168.0.209	Brcko	Luminato	Brčko	TKC Mtel
+192.168.0.200	Bijeljina	Luminato	Bijeljina	TKC Mtel
+192.168.0.207	Brod	Luminato	Brod	KC Brod
+192.168.0.206	Samac	Luminato	Šamac	POP1
+192.168.0.208	Ugljevik	Luminato	Ugljevik	TKC Mtel
+10.11.5.18	luminato-edgeQAM-TKC	Luminato	Banja Luka	TKC Mtel
+10.33.5.201	foca-luminato2 	Luminato	Foča	POP
+10.14.5.23	modrica-luminato-2	Luminato	Modriča	POP
+10.33.5.71	pale-luminato 	Luminato	Pale	POP
+10.12.12.20	prijedor-edgeQAM 	Luminato	Prijedor	ATC
+10.33.5.170	rogatica-luminato 	Luminato	Rogatica	Rogatica
+10.33.5.132	visegrad-luminato 	Luminato	Višegrad	POP
+10.33.5.133	visegrad-luminato2	Luminato	Višegrad	POP
+10.16.5.21	vlasenica-luminato 	Luminato	Vlasenica	POP
+10.14.5.22	modrica-luminato-1 	Luminato	Modriča	POP
+10.16.5.22	vlasenica-edgeQAM 	Luminato	Vlasenica	POP
+10.33.5.171	rogatica-luminato2	Luminato	Rogatica	Rogatica
+10.59.5.2	trebinje-luminato	Luminato	Trebinje	TKC Mtel
+192.168.0.32	Centar05	OLT	Bijeljina	TKC Mtel
+192.168.0.212	SupernovaISKT-01	OLT	Bijeljina	TKC Mtel
+192.168.0.103	Batkovic02	OLT	Bijeljina	Batković
+192.168.0.153	Crnjelovo02	OLT	Bijeljina	Crnjelovo POP1
+192.168.0.217	Centar01 	OLT	Bijeljina	Kontejner
+192.168.0.106	Obarska01	OLT	Bijeljina	Obarska
+192.168.0.141	Trnjaci01	OLT	Bijeljina	Trnjaci
+192.168.0.142	Trnjaci02	OLT	Bijeljina	Trnjaci
+192.168.0.143	Trnjaci03	OLT	Bijeljina	Trnjaci
+192.168.0.102	Batkovic01	OLT	Bijeljina	Batković
+192.168.0.101	Crnjelovo01	OLT	Bijeljina	Crnjelovo POP1
+192.168.0.37	Centar01	OLT	Bijeljina	Kontejner
+192.168.0.23	Centar03	OLT	Bijeljina	Kontejner
+192.168.0.39	Centar02	OLT	Bijeljina	Kontejner
+192.168.0.77	obarska-00	OLT	Bijeljina	Obarska
+192.168.0.24	Centar04	OLT	Bijeljina	TKC Mtel
+192.168.0.230	Grcica01	OLT	Brčko	Grčica
+192.168.0.231	Grcica02	OLT	Brčko	Grčica
+192.168.0.91	Ilicka01	OLT	Brčko	Ilićka
+192.168.0.179	srpska-varos-01	OLT	Brčko	TKC Mtel
+192.168.0.189	srpska-varos-02	OLT	Brčko	TKC Mtel
+192.168.0.85	Pelagicevo01	OLT	Pelagićevo	POP
+192.168.0.86	Pelagicevo02	OLT	Pelagićevo	POP
+192.168.0.241	Samac01-01	OLT	Šamac	POP1
+192.168.0.242	Samac01-02	OLT	Šamac	POP1
+192.168.0.243	Samac02-01	OLT	Šamac	POP2
+192.168.0.244	Samac03-01	OLT	Šamac	POP3
+192.168.0.56	Zabari01	OLT	Žabari	POP
+192.168.0.59	Zabari02	OLT	Žabari	POP
+10.11.12.245	Prisma II XD TKC-2	Prisma II	Banja Luka	TKC Mtel
+10.12.12.252	Prisma II XD Prijedor	Prisma II	Prijedor	TKC Mtel
+10.33.14.252	Prisma II-XD  Rogatica	Prisma II	Rogatica	Centrala
+10.111.12.250	Prisma II-XD Gradiska2	Prisma II	Gradiška	POP
+10.14.5.254	Prisma II-XD Modrica	Prisma II	Modriča	POP
+10.11.12.246	Prisma II XD Server sala2	Prisma II	Banja Luka	Server sala
+10.11.12.238	Prisma II XD TKC	Prisma II	Banja Luka	TKC Mtel
+10.33.15.251	Prisma II XD Foca	Prisma II	Foča	POP
+10.11.12.243	Prizma II Kotor Varos	Prisma II	Kotor Varoš	Centar
+10.33.13.253	Prisma II-XD Pale	Prisma II	Pale	POP
+10.33.14.253	Prisma II-XD Visegrad	Prisma II	Višegrad	POP
+10.16.5.253	Prisma II XD ATC Vlasenica 	Prisma II	Vlasenica	POP
+10.11.5.21	rfgw-1d - Server sala - CMTS 	RF Gateway	Banja Luka	Server sala
+10.11.5.23	rfgw-1d - Server sala 2- CMTS	RF Gateway	Banja Luka	Server sala
+10.11.5.25	RFGW-TKC	RF Gateway	Banja Luka	TKC Mtel
+10.11.5.26	RFGW-TKC 2	RF Gateway	Banja Luka	TKC Mtel
+10.11.5.31	RFGW-TKC 3	RF Gateway	Banja Luka	TKC Mtel
+10.11.5.32	RFGW-TKC 4	RF Gateway	Banja Luka	TKC Mtel
+192.168.0.135	Bijeljina	RF Gateway	Bijeljina	TKC Mtel
+10.111.5.20	RFGW-GRD-ATC 3	RF Gateway	Gradiška	ATC
+192.168.0.162	BRCKO TKC 1	RF Gateway	Brčko	TKC Mtel
+192.168.0.163	BRCKO TKC 2	RF Gateway	Brčko	TKC Mtel
+10.111.5.18	RFGW-GRD-ATC 1	RF Gateway	Gradiška	ATC
+10.111.5.19	RFGW-GRD-ATC 2 	RF Gateway	Gradiška	ATC
+10.59.5.10	TREBINJE-TKC-1	RF Gateway	Trebinje	TKC Mtel
+10.59.5.11	TREBINJE-TKC-2	RF Gateway	Trebinje	TKC Mtel
+10.59.5.12	TREBINJE-TKC-3	RF Gateway	Trebinje	TKC Mtel
+192.168.0.195	Bijeljina	RF Gateway	Bijeljina	TKC Mtel
+10.33.11.129	rog-pop-asr9k-PE	Router	Rogatica	POP
+31.223.223.17	bus-NCS540-01	Router	Busovača	Kontejner
+10.0.3.247	bus-NCS540-01	Router	Busovača	Kontejner
+10.0.3.241	BL-TKC-NCS5501-01	Router	Banja Luka	TKC Mtel
+10.0.3.231	 knz-NCS540-01 	Router	Kneževo	MTEL POP
+10.0.3.229	sa-dbr-7201-rr-01 	Router	Sarajevo	Dobrinja
+10.11.11.252	bl-tkc-asr-9901	Router	Banja Luka	TKC Mtel
+10.0.3.234	7609_BL	Router	Banja Luka	Lazarevo
+10.0.3.196	ASR2	Router	Bijeljina	TKC Mtel
+10.0.3.226	ASR1006	Router	Bijeljina	TKC Mtel
+10.0.6.250	RouterASR1	Router	Bijeljina	TKC Mtel
+10.0.3.228	7606_Do	Router	Doboj	Elta Centrala
+10.112.11.25	sw-sm-cplj-01-MT 	Router	Sanski Most	Čaplje
+10.0.3.222	bl-ss-7606-bgp-01 	Router	Banja Luka	Server sala
+10.0.3.251	bl-ss-7609-PE-01 	Router	Banja Luka	Server sala
+10.0.3.254	bl-ss-7606-p-01 	Router	Banja Luka	Server sala
+10.0.3.227	gom-pop-me3600-01	Router	Cazin	Velika Gomila
+10.0.3.218	foca-pop-asr920-01 	Router	Foča	POP
+10.0.3.249	grd-pop-asr902-01 	Router	Gradiška	POP
+10.0.3.248	lis-pop-asr920-01	Router	Lisina	POP
+10.0.3.219	mod-pop-asr920-01 	Router	Modriča	POP
+10.0.3.235	pl-pop-me3600-PE	Router	Pale	POP
+10.0.3.214	sa-dbr-7606-01 	Router	Sarajevo	Dobrinja
+10.0.3.216	vla-pop-asr920-01 	Router	Vlasenica	POP
+10.11.11.13	sw-anx-01-ME 	Switch	Banja Luka	Aneks
+10.11.11.46	sw-atv-3750-01.aneks.com 	Switch	Banja Luka	ATV
+10.11.11.77	sw-atv-01-ME.simpsons.aneks.local 	Switch	Banja Luka	ATV
+10.11.11.52	sw-bln-01-ME 	Switch	Banja Luka	Bolnica
+10.11.11.69	sw-bl-bln-02-ME	Switch	Banja Luka	Bolnica
+10.11.11.51	sw-blv-3750 	Switch	Banja Luka	Bulevar
+10.11.11.53	sw-blv-01	Switch	Banja Luka	Bulevar
+10.11.11.61	sw-blv-02-ME 	Switch	Banja Luka	Bulevar
+10.11.11.94	sw-cjv-01-ME	Switch	Banja Luka	Čajavec
+10.11.11.90	sw-cerska-01-ME.aneks.com 	Switch	Banja Luka	Cerska
+10.11.11.87	sw-bl-csm-01-ME 	Switch	Banja Luka	Česma
+10.11.11.106	sw-ee-3560-WAN 	Switch	Banja Luka	EuroExpress
+10.11.11.49	sw-bl-fo-3560-01	Switch	Banja Luka	FO Kralja Alfonsa
+10.11.11.37	sw-glm-01-ME 	Switch	Banja Luka	Glamočani
+10.11.11.67	sw-jvr-01-ME 	Switch	Banja Luka	Jevrejska
+10.11.11.163	sw-kar-01-ME.aneks.local 	Switch	Banja Luka	Karanovac
+10.11.11.64	sw-kos-01-ME 	Switch	Banja Luka	Kosmos
+10.11.11.50	sw-kzp-01-ME 	Switch	Banja Luka	Kozara Putevi
+10.11.11.41	sw-lml-01-ME.aneks.com	Switch	Banja Luka	Lamela
+10.11.11.74	sw-laus-01-ME 	Switch	Banja Luka	Lauš
+10.11.11.72	sw-lvn-02-ME 	Switch	Banja Luka	Livnica
+10.11.11.73	sw-lvn-01-ME 	Switch	Banja Luka	Livnica
+10.11.11.89	sw-lvn-3750-01 	Switch	Banja Luka	Livnica
+10.11.11.107	sw-mjugovica23-ME	Switch	Banja Luka	Majke Jugovića
+10.11.11.108	sw-mjugovica25-ME	Switch	Banja Luka	Majke Jugovića
+10.11.11.56	sw-mdn-01-ME 	Switch	Banja Luka	Mejdan
+10.11.11.113	sw-mf-2960G-01	Switch	Banja Luka	MKD Mikrofin
+10.11.11.97	sw-bl-mup-2960G-01.aneks.com 	Switch	Banja Luka	MUP
+10.11.11.65	sw-nbd-01-ME	Switch	Banja Luka	Neboder
+10.11.11.79	sw-nbd-3750-01	Switch	Banja Luka	Neboder
+10.11.11.92	sw-nbd-02-ME	Switch	Banja Luka	Neboder
+10.11.11.83	sw-nvs-01-ME	Switch	Banja Luka	Novoselija
+10.11.11.62	sw-obl-01-ME	Switch	Banja Luka	Obilićevo
+10.11.11.43	sw-osdj-01-ME	Switch	Banja Luka	OŠ Đura Jakšić
+10.11.11.48	sw-pnr-01-ME.aneks.com	Switch	Banja Luka	Ponir
+10.11.11.96	sw-bl-pzi-01-ME 	Switch	Banja Luka	Poslovna zona Incel
+10.0.3.172	MG-POP-ME3600	Switch	Mrkonjić Grad	POP
+10.33.11.77	sw-pale-begovina-01-MT	Switch	Pale	Begovina
+10.112.11.148	sw-mala-kld-01-MT	Switch	Velika Kladuša	Mala Kladuša
+10.33.11.134	sw-sok-3560-01	Switch	Sokolac	TKC Mtel
+192.168.0.83	VILLAGE-04	Switch	Bijeljina	Crnjelovo POP1
+192.168.0.132	VILLAGE-24	Switch	Bijeljina	Crnjelovo POP2
+192.168.0.89	VILLAGE-22	Switch	Bijeljina	Crnjelovo POP2
+192.168.0.117	VILLAGE-40	Switch	Bijeljina	Crnjelovo POP3
+192.168.0.224	mtel-004	Switch	Bijeljina	TKC Mtel
+10.111.11.10	sw-grd-atc-2960G 	Switch	Gradiška	ATC
+10.12.11.23	sw-ng-tkc-ME-01	Switch	Novi Grad 	ATC
+10.33.11.78	sw-pale-zeljkozgr-01-MT	Switch	Pale	Zgrada Željko
+10.0.3.232	spv-3600-ME	Switch	Šipovo 	Zgrada Pošte
+10.11.50.130	sw-sip-tkc-3560e-01	Switch	Šipovo 	Zgrada Pošte
+10.33.11.226	3560_Zv	Switch	Zvornik	B Blokovi
+10.11.11.105	sw-cmb-01-MT 	Switch	Banja Luka	Ramići
+10.0.3.225	Teslic_ME.elta-kabel.com	Switch	Teslić	Elta Centrala
+10.0.3.215	Zvornik_ME.elta-kabel.com	Switch	Zvornik	B Blokovi
+192.168.0.248	FTTH_Aggregation	Switch	Bijeljina	Obrijež
+192.168.0.251	Google3850	Switch	Bijeljina	Obrijež
+192.168.0.245	cisco_mtel_003	Switch	Bijeljina	TKC Mtel
+10.11.11.251	sw-bl-tkc-9500 	Switch	Banja Luka	TKC Mtel
+10.12.11.41	sw-pd-dbc-3560-02	Switch	Kozarska Dubica	Elta Centrala
+10.12.11.40	sw-dbc-3560E-01.elta-kabel.com 	Switch	Kozarska Dubica	TKC Mtel
+10.11.11.115	sw-jlb-02-ME 	Switch	Laktaši	Jelića brdo
+10.12.11.21	sw-pd-ng-3560e	Switch	Novi Grad 	Elta Centrala
+10.33.11.197	sw-vucko-2960s-48-b1-01	Switch	Pale	Hotel Vučko
+10.33.11.198	sw-vucko-2960s-24-b2	Switch	Pale	Hotel Vučko
+10.33.11.199	sw-vucko-2960s-24-uglovnica	Switch	Pale	Hotel Vučko
+10.33.11.200	sw-vucko-2960s-48-a1-01	Switch	Pale	Hotel Vučko
+10.33.11.201	sw-vucko-2960s-24-a2	Switch	Pale	Hotel Vučko
+10.12.11.22	sw-pd-tkc-3560E-01	Switch	Prijedor	ATC
+10.33.11.7	sw-sa-lgsft-3750	Switch	Sarajevo	Logosoft
+10.11.50.2	sw-mg-3560G-01	Switch	Mrkonjić Grad	POP
+10.11.11.9	SW-R8-CE-01	Switch	Banja Luka	Server sala
+192.168.0.81	VILLAGE-02	Switch	Bijeljina	Crnjelovo POP1
+192.168.0.82	VILLAGE-03	Switch	Bijeljina	Crnjelovo POP1
+192.168.0.84	VILLAGE-20	Switch	Bijeljina	Crnjelovo POP2
+192.168.0.115	privremeno	Switch	Bijeljina	Obrijež
+192.168.0.169	FTTH_Aggregating	Switch	Bijeljina	Obrijež
+192.168.0.222	NEXUS2	Switch	Bijeljina	Obrijež
+192.168.0.48	BiznisKorisnici02	Switch	Bijeljina	Obrijež
+192.168.0.2	nexus_core	Switch	Bijeljina	TKC Mtel
+192.168.0.45	mtel-001	Switch	Bijeljina	TKC Mtel
+192.168.0.49	mtel-002	Switch	Bijeljina	TKC Mtel
+192.168.0.74	DIGITALHEADEND	Switch	Bijeljina	TKC Mtel
+192.168.0.229	brcko-001	Switch	Brčko	TKC Mtel
+192.168.0.238	brod-core	Switch	Brod	TKC Mtel
+10.0.3.200	EltaIS_ME	Switch	Istočno Sarajevo	Elta Centrala
+10.12.11.43	sw-pd-kst-3560-02	Switch	Kostajnica	Elta Centrala
+192.168.0.210	modrica-001	Switch	Modriča	TKC Mtel
+192.168.0.214	samac-001	Switch	Šamac	POP1
+192.168.0.228	Nexus 3064 Chassis	Switch	Ugljevik	TKC Mtel
+192.168.0.131	VILLAGE-05	Switch	Bijeljina	Crnjelovo POP1
+192.168.0.133	VILLAGE-06	Switch	Bijeljina	Crnjelovo POP1
+192.168.0.130	VILLAGE-23	Switch	Bijeljina	Crnjelovo POP2
+192.168.0.121	VILLAGE-41	Switch	Bijeljina	Crnjelovo POP3
+192.168.0.254	Sestica	Switch	Bijeljina	Obrijež
+192.168.0.9	Voice3750	Switch	Bijeljina	Obrijež
+192.168.0.161	VILLAGE-21	Switch	Bijeljina	Crnjelovo POP2
+10.11.11.103	sw-prj-02-ME	Switch	Banja Luka	Priječani
+10.11.11.75	sw-prj-01-ME	Switch	Banja Luka	Priječani
+10.11.11.85	sw-rtrs-2960-01	Switch	Banja Luka	RTRS
+10.11.11.10	sw-rCMTS-01.aneks.com	Switch	Banja Luka	Server sala
+10.11.11.14	sw-r5-01	Switch	Banja Luka	Server sala
+10.11.11.15	sw-r21-01	Switch	Banja Luka	Server sala
+10.11.11.18	sw-r13-01	Switch	Banja Luka	Server sala
+10.11.11.19	sw-r27-01	Switch	Banja Luka	Server sala
+10.11.11.20	sw-r7-01	Switch	Banja Luka	Server sala
+10.11.11.22	sw-r2-01	Switch	Banja Luka	Server sala
+10.11.11.25	sw-r7-03.blicnet.ba	Switch	Banja Luka	Server sala
+10.11.11.254	sw-6500 	Switch	Banja Luka	Server sala
+10.11.11.26	sw-r7-02	Switch	Banja Luka	Server sala
+10.11.11.27	sw-r16-01	Switch	Banja Luka	Server sala
+10.11.11.28	sw-r16-02	Switch	Banja Luka	Server sala
+10.11.11.30	sw-r15-01	Switch	Banja Luka	Server sala
+10.11.11.31	 sw-hp-01 	Switch	Banja Luka	Server sala
+10.11.11.32	sw-hp-02 	Switch	Banja Luka	Server sala
+10.11.11.33	sw-r17-01	Switch	Banja Luka	Server sala
+10.11.11.34	sw-r14-01	Switch	Banja Luka	Server sala
+10.11.11.5	sw-r1-01	Switch	Banja Luka	Server sala
+10.11.11.8	sw-r10-01	Switch	Banja Luka	Server sala
+10.11.11.110	sw-sbv-02-ME	Switch	Banja Luka	Šibovi
+10.11.11.57	sw-sbv-01-ME	Switch	Banja Luka	Šibovi
+10.11.11.162	sw-sigurnasoba-2960	Switch	Banja Luka	Sigurna Soba
+10.11.11.78	sw-std-2960G-01	Switch	Banja Luka	Stadion
+10.11.11.71	sw-str-01-ME	Switch	Banja Luka	Starčevica
+10.11.11.114	sw-teleklik-2960G-01	Switch	Banja Luka	Teleklik
+10.11.11.45	sw-bl-tkc-01-ME 	Switch	Banja Luka	TKC Mtel
+10.11.11.54	sw-tnj-01-ME	Switch	Banja Luka	Tunjice
+10.11.11.63	sw-vrb-01-ME	Switch	Banja Luka	Vrbanja
+10.11.11.101	sw-zlz-3750-01	Switch	Banja Luka	Zalužani
+10.11.11.40	sw-zlz-01-ME	Switch	Banja Luka	Zalužani
+10.11.11.35	sw-est-01-ME 	Switch	Banja Luka	Zgrada Estetik
+10.11.11.102	sw-bl-ficbl-2960-01 	Switch	Banja Luka	Zgrada ICBL
+10.112.11.153	sw-bhc-bihac-01-ME 	Switch	Bihać	Nova četvrt
+10.11.11.164	sw-ostrelj-ME3400	Switch	Bosanski Petrovac	Oštrelj
+10.11.11.165	sw-vrscic-3560	Switch	Bosanski Petrovac	Vrščić
+10.112.11.138	sw-cz-jpb-01-ME 	Switch	Cazin	Japića brdo
+10.11.11.39	sw-lpv-01-ME 	Switch	Čelinac	Lipovac
+10.111.11.2	sw-grd-pop-3750-01 	Switch	Gradiška	POP
+10.111.11.3	sw-grd-2960 	Switch	Gradiška	POP
+10.111.11.4	sw-grd-prodaja 	Switch	Gradiška	POP
+10.111.11.8	sw-grd-pop-01-ME	Switch	Gradiška	POP
+10.11.11.76	sw-knz-01-ME 	Switch	Kneževo	MTEL POP
+10.11.11.55	sw-ktv-01-ME 	Switch	Kotor Varoš	Centar
+10.11.11.82	sw-ktv-prodaja 	Switch	Kotor Varoš	FO
+10.11.11.59	sw-lkt-cnt 	Switch	Laktaši	Centar
+10.11.11.44	sw-jlb-01-ME	Switch	Laktaši	Jelića brdo
+10.11.11.60	sw-jlb-2960G 	Switch	Laktaši	Jelića brdo
+10.33.11.68	sw-pale-fo-2960G-01	Switch	Pale	FO
+10.33.11.75	sw-jah-but-01-ME 	Switch	Pale	Jahorina
+10.33.11.76	sw-jhr-vck-3750-01 	Switch	Pale	Jahorina
+10.33.11.79	 sw-jah-brd-01-ME 	Switch	Pale	Jahorina
+10.33.11.69	sw-krn-01-ME	Switch	Pale	Koran
+10.33.11.70	sw-pl-nftel-ME-01.blicnet.ba	Switch	Pale	NF-Tel
+10.33.11.66	sw-duos-3750-01	Switch	Pale	POP
+10.33.11.67	sw-duos-2960-01 	Switch	Pale	POP
+10.12.11.5	sw-pd-htl-01-ME	Switch	Prijedor	Hotel
+10.12.11.11	sw-pd-kzc-01-ME	Switch	Prijedor	Kozarac
+10.12.11.8	sw-pd-bln-01-ME	Switch	Prijedor	PD-Bolnica
+10.12.11.4	sw-pd-cnt-01-ME	Switch	Prijedor	PD-Centar
+10.12.11.3	sw-pd-sls-01-ME	Switch	Prijedor	PD-Silos
+10.12.11.10	sw-pd-vlc-01-ME	Switch	Prijedor	PD-Vlačine
+10.12.11.18	sw-pd-tkc-3400-ME	Switch	Prijedor	TKC Mtel
+10.12.11.17	sw-vl-brdo-01-ME	Switch	Prijedor	Veliko Brdo
+10.33.11.2	sw-sa-avaz-3560E-01	Switch	Sarajevo	Avaz Twist Tower
+10.33.11.5	sw-sar-avaz-02-ME	Switch	Sarajevo	Avaz Twist Tower
+10.33.11.6	sw-sar-ee-01-ME	Switch	Sarajevo	EuroExpress
+10.111.11.7	sw-srb-2960G-01	Switch	Srbac	Kontejner
+10.111.11.9	sw-srb-01-ME	Switch	Srbac	Kontejner
+10.112.11.143	sw-cz-fo-3560-01	Switch	Cazin	FO Cazin
+10.112.11.152	sw-bhc-brekovica-01-ME 	Switch	Bihać	Brekovica
+10.112.11.141	sw-gom-lip-01-ME 	Switch	Bosanska Krupa	Lipik
+10.112.11.154	sw-cz-jezer-01-ME.aneks.local 	Switch	Cazin	Jezerski
+10.112.11.147	sw-cz-karaula-01-ME 	Switch	Cazin	Karaula
+10.112.11.135	sw-cz-mbrdo-01-ME 	Switch	Cazin	Muratovo brdo
+10.112.11.136	sw-cz-rad-01-ME 	Switch	Cazin	RTV Cazin
+10.112.11.145	sw-cz-slt-01-ME 	Switch	Cazin	Slatina
+10.112.11.130	sw-gomila-3750-01 	Switch	Cazin	Velika Gomila
+10.112.11.131	sw-gomila-01-ME 	Switch	Cazin	Velika Gomila
+10.33.11.34	sw-foca-pop-01-ME 	Switch	Foča	POP
+10.112.11.3	sw-lis-01-ME	Switch	Lisina	POP
+10.112.11.6	sw-lis-02-ME 	Switch	Lisina	POP
+10.112.11.7	sw-lis-04-ME 	Switch	Lisina	POP
+10.14.11.6	sw-mod-C2950-01.blicnet.ba	Switch	Modriča	Front Office
+10.14.11.2	sw-mod-josava-01-ME	Switch	Modriča	Jošava
+10.14.11.3	sw-mod-01-ME	Switch	Modriča	POP
+10.14.11.4	sw-mod-02-ME	Switch	Modriča	POP
+10.112.11.10	sw-sm-sjn-ME-01.blicnet.ba	Switch	Sanski Most	Sjenokoš
+10.112.11.150	sw-kld-drn-01-ME 	Switch	Velika Kladuša	Drenovac
+10.112.11.133	 sw-kld-01-ME	Switch	Velika Kladuša	Radio Kladuša
+10.112.11.149	sw-kld-rosici-01-ME 	Switch	Velika Kladuša	Rosici
+10.112.11.151	sw-kld-slapnica-01-ME 	Switch	Velika Kladuša	Slapnica
+10.33.11.133	sw-vsgd-pop-2960G-01.aneks.com	Switch	Višegrad	POP
+10.16.11.3	sw-milici-01-ME 	Switch	Vlasenica	Milići
+10.16.11.2	sw-vla-01-ME	Switch	Vlasenica	POP
+10.112.11.137	sw-gomila-2960-02 	Switch	Cazin	Velika Gomila
+192.168.0.80	VILLAGE-01	Switch	Bijeljina	Crnjelovo POP1
+10.11.11.2	sw-r8-01	Switch	Banja Luka	Server sala
+10.11.11.24	sw-r20-01	Switch	Banja Luka	Server sala
+10.11.11.6	sw-r22-01	Switch	Banja Luka	Server sala
+10.11.11.21	sw-r19-01	Switch	Banja Luka	Majke Jugovića
+192.168.0.62	Akvizicija SW	Switch	Bijeljina	TKC Mtel
+10.11.11.7	sw-r10-02	Switch	Banja Luka	Server sala
+10.0.3.223	Brcko_ME	Switch	Brčko	Eš Naselje
+10.16.11.40	sw-brat-3560-01	Switch	Bratunac	Elta centrala
+10.16.11.4	sw-brat-3560-01	Switch	Bratunac	Elta centrala
+10.112.11.156	sw-gom-02-me	Switch	Cazin	Velika Gomila
+10.59.11.3	sw-trb-staracentrala	Switch	Trebinje	TKC Mtel
+10.11.12.112	PWR-ATV	UPS	Banja Luka	ATV
+10.11.12.125	PWR-MT-CSM	UPS	Banja Luka	Česma
+10.11.12.131	PWR-MDN	UPS	Banja Luka	Mejdan
+10.11.12.141	PWR-NBD	UPS	Banja Luka	Neboder
+10.112.16.112	CZ-PWR-SLT	UPS	Cazin	Slatina
+10.112.16.111	CZ-PPWR-VGM	UPS	Cazin	Velika Gomila
+10.12.12.106	PD-PWR-HTL	UPS	Prijedor	Hotel
